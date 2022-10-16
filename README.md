@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Aditya Barshilia!</h1>
-<h3 align="center"> A passionate software engineer based in India. Currently looking for oppurtunities to work as a MERN stack dev.</h3>
+<h3 align="center"> A passionate Software Developer based in India. Currently looking for oppurtunities to work as a MERN stack dev.</h3>
 
 
 <p align="center">
-  💻 I’m a full stack web developer specializing in MERN stack. <br/>
+  💻 I’m a Full Stack Web Developer specializing in MERN stack. <br/>
   🌱 I love to code, build things & solve problems. <br/>
    🤝 Open to collaborate. <br/>
    ⚡ For fun, I like Watch & Review Films, I also follow Football. <br/>
