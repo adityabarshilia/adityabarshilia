@@ -6,7 +6,7 @@
   💻 I’m a Full Stack Web Developer specializing in MERN stack. <br/>
   🌱 I love to code, build things & solve problems. <br/>
    🤝 Open to collaborate. <br/>
-   ⚡ For fun, I like Watch & Review Films, I also follow Football. <br/>
+   ⚡ For fun, I watch Films and play games, I also follow Football. <br/>
   🗺️ Want to know more? Check out my portfolio <a href="https://github.com/adityabarshilia"> here 🔗</a>. <br/>
 </p>
 
