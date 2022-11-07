@@ -7,7 +7,7 @@
   🌱 I love to code, build things & solve problems. <br/>
    🤝 Open to collaborate. <br/>
    ⚡ For fun, I watch Films and play games, I also follow Football. <br/>
-  🗺️ Want to know more? Check out my portfolio <a href="https://github.com/adityabarshilia"> here 🔗</a>. <br/>
+  🗺️ Want to know more? Check out my portfolio <a target="_blank" href="https://adityabarshilia.github.io/"> here 🔗</a>. <br/>
 </p>
 
 <h3 align="center">My Tools & Tech Stack 🛠️:</h3>
